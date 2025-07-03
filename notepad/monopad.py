@@ -1,3 +1,4 @@
+# 다크모드 추가 메모장
 import sys
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QTextEdit, QAction,
                              QFileDialog, QTabWidget, QVBoxLayout, QWidget,
